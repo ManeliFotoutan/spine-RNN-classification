@@ -33,15 +33,12 @@ The model is compiled with:
 The model is trained for **100 epochs** with a batch size of **32** and evaluated on the test set.
 
 ## Usage
-1. Install dependencies:
+ Install dependencies:
    ```bash
    pip install pandas numpy tensorflow scikit-learn
    ```
-2. Run the script:
-   ```bash
-   python train_model.py
-   ```
-3. The test accuracy is displayed after evaluation.
+
+
 
 
 
